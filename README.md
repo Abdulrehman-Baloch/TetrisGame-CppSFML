@@ -1,32 +1,51 @@
-Tetris Game (C++ & SFML)
-Project Overview
+## Tetris Game (C++ & SFML)
+
+### Project Overview
 This repository contains a Tetris game implemented in C++ using the Simple and Fast Multimedia Library (SFML). It replicates the classic Tetris experience with smooth gameplay, intuitive controls, and a scoring system. The game gradually becomes faster as the player progresses through levels.
 
-Features include:
-1. Responsive controls: Move, rotate, and drop tetrominoes using the keyboard.
-2. Score tracking: Earn points for clearing rows.
-3. Game over detection: Ends when the grid is filled.
-4. 2D Graphics: Smooth rendering using SFML.
-5. Pause/Resume Functionality: Allow players to pause and resume the game.
+### Features
+- **Responsive controls**: Move, rotate, and drop tetrominoes using the keyboard.
+- **Score tracking**: Earn points for clearing rows.
+- **Game over detection**: The game ends when the grid is filled.
+- **2D Graphics**: Smooth rendering using SFML for a polished gaming experience.
+- **Pause/Resume functionality**: Players can pause and resume the game anytime.
 
-Technologies Used:
-C++ for core game logic and data handling.
-SFML for graphics rendering, input handling, and window management.
+### Technologies Used
+- **C++**: Core game logic and data handling.
+- **SFML**: Graphics rendering, input handling, and window management.
 
-Game Controls:
-1. Left/Right Arrow Keys: Move the tetromino left or right.
-2. Up Arrow Key: Rotate the tetromino.
-3. Down Arrow Key: Speed up the fall of the tetromino.
-4. Space: Drop the tetromino instantly.
+### Game Controls
+- **Left/Right Arrow Keys**: Move the tetromino left or right.
+- **Up Arrow Key**: Rotate the tetromino.
+- **Down Arrow Key**: Speed up the fall of the tetromino.
+- **Space**: Instantly drop the tetromino.
 
+### How to Contribute
+If you'd like to contribute to this project, follow these steps:
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add a feature"
+   ```
+4. Push the branch:
+   ```bash
+   git push origin feature-branch
+   ```
+5. Create a pull request.
 
-If you'd like to contribute to the project:
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit (git commit -m "Add a feature").
-Push to the branch (git push origin feature-branch).
-Create a pull request.
+### Contact
+For any questions or issues, feel free to reach out:
+- **Email**: balochabdulrehman23@gmail.com
 
-Contact
-For any questions or issues, feel free to contact me:
-Email: balochabdulrehman23@gmail.com
+---
+
+### Key Improvements:
+1. **Structure**: Clearer sections with headings to make the README easier to navigate.
+2. **Formatting**: Proper spacing between elements and code block formatting for commands.
+3. **Detailing Features**: More concise and clear wording.
+4. **Contribution Steps**: Added command code block formatting to improve readability.
+
