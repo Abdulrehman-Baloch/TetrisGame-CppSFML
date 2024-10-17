@@ -41,11 +41,4 @@ If you'd like to contribute to this project, follow these steps:
 For any questions or issues, feel free to reach out:
 - **Email**: balochabdulrehman23@gmail.com
 
----
-
-### Key Improvements:
-1. **Structure**: Clearer sections with headings to make the README easier to navigate.
-2. **Formatting**: Proper spacing between elements and code block formatting for commands.
-3. **Detailing Features**: More concise and clear wording.
-4. **Contribution Steps**: Added command code block formatting to improve readability.
 
